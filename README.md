@@ -15,4 +15,8 @@ Lastly, we provide two visualizations using `Plotly.express` and Pandas `hvPlot`
 
 <img src="images/hvplot.png">
 
-We also provided a table using `hvplot` that shows all the `CoinName`, `Algorithm`, `ProofType`, `TotalCoinSupply`, `TotalCoinsMined`, `Class`. This shows all of the data from our original dataset with the class (or cluster) our model assigned each cryptocurrency. As an exploratory exercise using unsupervised machine learning model, this analysis provides our investment bank an idea of how the cryptocurrencies can be clustered and gives them some information to provide their clients. 
+We also provided a table using `hvplot` that shows all the `CoinName`, `Algorithm`, `ProofType`, `TotalCoinSupply`, `TotalCoinsMined`, `Class`. This shows all of the data from our original dataset with the class (or cluster) our model assigned each cryptocurrency. 
+
+<img src="images/table.png">
+
+As an exploratory exercise using unsupervised machine learning model, this analysis provides our investment bank an idea of how the cryptocurrencies can be clustered and gives them some information to provide their clients. 
